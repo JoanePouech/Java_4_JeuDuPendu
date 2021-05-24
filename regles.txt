@@ -1,0 +1,21 @@
+
+
+
+	Vous avez 7 coups pour trouver le mot caché! Et si vous réussissez: on recommence!
+	Plus vous avez trouvé de mots, plus votre score grandira!! Alors à vous de jouer!
+
+
+	COMPTE DES POINTS:
+
+		Mot trouvé sans erreur:......100 Pts
+		Mot trouvé avec 1 erreur:.....50 Pts
+		Mot trouvé avec 2 erreurs:....35 Pts
+		Mot trouvé avec 3 erreurs:....25 Pts
+		Mot trouvé avec 4 erreurs:....15 Pts
+		Mot trouvé avec 5 erreurs:....10 Pts
+		Mot trouvé avec 6 erreurs:.....5 Pts
+	
+
+	Je vous souhaite bien du plaisir...
+	Et, si vous pensez pouvoir trouver un mot en un coup, c'est que vous pensez que le dictionnaire est petit!
+	Or, pour votre information, il comprend plus de 336 000 mots... Donc bonne chance!! ;)
